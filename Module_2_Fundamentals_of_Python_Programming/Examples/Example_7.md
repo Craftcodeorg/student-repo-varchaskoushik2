@@ -1,0 +1,1 @@
+Example 7: Basic input from user
